@@ -1,3 +1,3 @@
 # JGRL_2022_WindWaveDecomposition
-https://zenodo.org/badge/570225762.svg
-https://zenodo.org/badge/latestdoi/570225762
+https://doi.org/10.5281/zenodo.7422388
+
